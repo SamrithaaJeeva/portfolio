@@ -78,19 +78,19 @@ const Contact = () => {
       <span className="bg-designColor text-gray-700 text-sm font-titleFont font-medium px-2 rounded-md flex items-center justify-center">
         Phone:
       </span>
-      076-440-9972
+      077-115-5995
     </p>
     <p className="flex justify-between lgl:gap-6 w-full text-lg text-[#ccc] py-4 border-b-[1px] border-b-zinc-800 text-sm">
       <span className="bg-designColor text-gray-700 text-sm font-titleFont font-medium px-2 rounded-md flex items-center justify-center">
         Email:
       </span>
-      ganeshamoorthykavinesh186@gmail.com
+      samritha.20221530@iit.ac.lk
     </p>
     <p className="flex justify-between lgl:gap-6 w-full text-lg text-[#ccc] py-4 border-b-[1px] border-b-zinc-800 text-sm">
       <span className="bg-designColor text-gray-700 text-sm font-titleFont font-medium px-2 rounded-md flex items-center justify-center">
         Freelance:
       </span>
-      Available
+      -
     </p>
 </div>
 

@@ -4,29 +4,28 @@ import { FaWordpress } from "react-icons/fa";
 import { FaFigma } from "react-icons/fa";
 import { BiCodeAlt } from "react-icons/bi";
 import ServicesCard from "./ServicesCard";
+import { FaDatabase } from 'react-icons/fa';
+import { AiOutlineRobot } from 'react-icons/ai';
+
+
 
 const MyServices = () => {
   return (
     <div className="grid grid-cols-1 md:grid-cols-2">
       <ServicesCard
+        icons={<AiOutlineRobot />}
+        title="Machine Learning"
+        subTitle="As a machine learning engineer, I collect, train, and deploy models to address real-world problems efficiently while staying abreast of the latest advancements in the field."
+      />
+      <ServicesCard
+        icons={<FaDatabase />}
+        title="Data Engineering"
+        subTitle="As a data engineer, I design and maintain efficient data pipelines and infrastructure, ensuring reliable data storage and accessibility for stakeholders."
+      />
+      <ServicesCard
         icons={<BiCodeAlt />}
-        title="Full Stack Web Development"
-        subTitle="Developing both the frontend and backend of websites or applications using various technologies."
-      />
-      <ServicesCard
-        icons={<FaFigma />}
-        title="UI Design"
-        subTitle="Designing digital interfaces and UI Wireframes collaboratively with Figma's cloud-based platform."
-      />
-      <ServicesCard
-        icons={<FaApple />}
-        title="Swift IOS Developer"
-        subTitle="Developing iOS applications involves coding, testing, and deploying software specifically tailored for Apple's mobile operating system, iOS."
-      />
-      <ServicesCard
-        icons={<FaWordpress />}
-        title="Wordpress Developer"
-        subTitle="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic, provident. Accusamus at dolorem expedita dicta."
+        title="Web Developement"
+        subTitle=" I design and implement user-friendly websites and applications, ensuring functionality, performance, and a seamless user experience."
       />
     </div>
   );

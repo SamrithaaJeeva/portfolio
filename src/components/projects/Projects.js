@@ -1,14 +1,5 @@
 import React from "react";
-import {
-  workImgOne,
-  workImgTwo,
-  workImgThree,
-  workImgFour,
-  workImgFive,
-  workImgSix,
-  workImgSeven,
-  workImgEight,
-} from "../../assets";
+
 import Title from "../home/Title";
 import ProjectsCard from "./ProjectsCard";
 
@@ -19,37 +10,34 @@ const Projects = () => {
       <div className="w-full grid grid-cols-1 md:grid-cols-2 gap-6 lgl:gap-10">
         <div className="px-6">
           <ProjectsCard
-            title="UI Design"
-            category="UserSelect & Login & SignUp"
-            image={workImgThree}
+            title="HCHO Insight"
+            category="Analyzing Air Quality & Climate in Sri Lanka"
+
           />
           <ProjectsCard
-            title="Wordpress"
-            category="Loading Screen & Home page"
-            image={workImgOne}
+            title="Predicting Income Using Census Data"
+            category="Classification project using census data to predict income"
+
           />
           <ProjectsCard
-            title="Infinity Logo"
-            category="Logo"
-            image={workImgTwo}
+            title="Rally FX Championship"
+            category="JavaFX software"
+
           />
           
         </div>
         <div className="px-6">
           <ProjectsCard
-            title="Silk Harmony Full Stack"
-            category="Home Page & Products Page"
-            image={workImgFour}
+            title="MANS Fitness Web Application"
+            category="Fitness E-commerce website"
           />
           <ProjectsCard
-            title="UI Design"
-            category="Dashboard & Menu"
-            image={workImgSix}
+            title="SCAMS Club Management System"
+            category="School activity club management system. by JavaFX"
           />
           <ProjectsCard
-            title="Wordpress"
-            category="Homepage"
-            image={workImgEight}
+            title="AcciTracker"
+            category="A Road Accident Prediction App"
           />
           
         </div>
