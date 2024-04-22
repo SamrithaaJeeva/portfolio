@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/SamrithaaJeeva/portfolio.git/static/css/main.cf58fbc2.css",
-    "main.js": "/SamrithaaJeeva/portfolio.git/static/js/main.d49a09e6.js",
-    "static/media/workImgEight.jpg": "/SamrithaaJeeva/portfolio.git/static/media/workImgEight.f18f37e60b7a49ad2694.jpg",
-    "static/media/bannerImg.png": "/SamrithaaJeeva/portfolio.git/static/media/bannerImg.313042866637d5f3c84b.png",
-    "static/media/workImgSeven.jpg": "/SamrithaaJeeva/portfolio.git/static/media/workImgSeven.b607849747fc53f9a1c1.jpg",
-    "static/media/workImgFive.jpg": "/SamrithaaJeeva/portfolio.git/static/media/workImgFive.7e88cef06bfeb0835605.jpg",
-    "static/media/workImgTwo.jpg": "/SamrithaaJeeva/portfolio.git/static/media/workImgTwo.7433873bf3c337c65ffc.jpg",
-    "static/media/workImgOne.jpg": "/SamrithaaJeeva/portfolio.git/static/media/workImgOne.28ddf6bcacf233b10dd1.jpg",
-    "static/media/Samrithaa-Resume.pdf": "/SamrithaaJeeva/portfolio.git/static/media/Samrithaa-Resume.4ca1ba417fb4bba449d3.pdf",
-    "static/media/workImgFour.jpg": "/SamrithaaJeeva/portfolio.git/static/media/workImgFour.10ddd9b44b0d0802f131.jpg",
-    "static/media/workImgSix.jpg": "/SamrithaaJeeva/portfolio.git/static/media/workImgSix.d6c3828e9eb1953ec138.jpg",
-    "static/media/workImgThree.jpg": "/SamrithaaJeeva/portfolio.git/static/media/workImgThree.0ba8f4ad92b3c753c188.jpg",
-    "index.html": "/SamrithaaJeeva/portfolio.git/index.html",
-    "main.cf58fbc2.css.map": "/SamrithaaJeeva/portfolio.git/static/css/main.cf58fbc2.css.map",
-    "main.d49a09e6.js.map": "/SamrithaaJeeva/portfolio.git/static/js/main.d49a09e6.js.map"
+    "main.css": "/portfolio/static/css/main.cf58fbc2.css",
+    "main.js": "/portfolio/static/js/main.b4123a42.js",
+    "static/media/workImgEight.jpg": "/portfolio/static/media/workImgEight.f18f37e60b7a49ad2694.jpg",
+    "static/media/bannerImg.png": "/portfolio/static/media/bannerImg.313042866637d5f3c84b.png",
+    "static/media/workImgSeven.jpg": "/portfolio/static/media/workImgSeven.b607849747fc53f9a1c1.jpg",
+    "static/media/workImgFive.jpg": "/portfolio/static/media/workImgFive.7e88cef06bfeb0835605.jpg",
+    "static/media/workImgTwo.jpg": "/portfolio/static/media/workImgTwo.7433873bf3c337c65ffc.jpg",
+    "static/media/workImgOne.jpg": "/portfolio/static/media/workImgOne.28ddf6bcacf233b10dd1.jpg",
+    "static/media/Samrithaa-Resume.pdf": "/portfolio/static/media/Samrithaa-Resume.4ca1ba417fb4bba449d3.pdf",
+    "static/media/workImgFour.jpg": "/portfolio/static/media/workImgFour.10ddd9b44b0d0802f131.jpg",
+    "static/media/workImgSix.jpg": "/portfolio/static/media/workImgSix.d6c3828e9eb1953ec138.jpg",
+    "static/media/workImgThree.jpg": "/portfolio/static/media/workImgThree.0ba8f4ad92b3c753c188.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.cf58fbc2.css.map": "/portfolio/static/css/main.cf58fbc2.css.map",
+    "main.b4123a42.js.map": "/portfolio/static/js/main.b4123a42.js.map"
   },
   "entrypoints": [
     "static/css/main.cf58fbc2.css",
-    "static/js/main.d49a09e6.js"
+    "static/js/main.b4123a42.js"
   ]
 }
