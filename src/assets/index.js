@@ -10,8 +10,10 @@ import workImgEight from "./work/workImgEight.jpg"
 import JavaFX from "./javafx.png"
 import JavaFX2 from "./javafx2.png"
 import Web from "./scamsweb.png"
+import Git from "./github.png"
 
-export { 
+export {
+    Git, 
     Web,
     JavaFX,
     JavaFX2,
