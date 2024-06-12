@@ -2,7 +2,7 @@ import React from "react";
 
 import Title from "../home/Title";
 import ProjectsCard from "./ProjectsCard";
-import {Git,Web,JavaFX, JavaFX2} from '../../assets/index'
+import {Acci,Git,Web,JavaFX, JavaFX2} from '../../assets/index'
 
 const Projects = () => {
   return (
@@ -13,7 +13,7 @@ const Projects = () => {
         
         <a href="https://github.com/Inupa6677/DSGP-GROUP-9/tree/main">
           <ProjectsCard
-          image = {Git}
+          image = {Acci}
             title="AcciTracker"
             category="A Road Accident Prediction App"
           />

@@ -11,8 +11,10 @@ import JavaFX from "./javafx.png"
 import JavaFX2 from "./javafx2.png"
 import Web from "./scamsweb.png"
 import Git from "./github.png"
+import Acci from "./acci.png"
 
 export {
+    Acci,
     Git, 
     Web,
     JavaFX,
