@@ -10,6 +10,12 @@ const Projects = () => {
       <Title title="Recent" subTitle="Projects" />
       <div className="w-full grid grid-cols-1 md:grid-cols-2 gap-6 lgl:gap-10">
         <div className="px-6">
+        <ProjectsCard
+            title="AcciTracker"
+            category="A Road Accident Prediction App"
+          />
+          
+          
           <ProjectsCard
             title="HCHO Insight"
             category="Analyzing Air Quality & Climate in Sri Lanka"
@@ -44,10 +50,7 @@ const Projects = () => {
             category="School activity club management system. by JavaFX"
           />
           </a>
-          <ProjectsCard
-            title="AcciTracker"
-            category="A Road Accident Prediction App"
-          />
+          
           
         </div>
       </div>
